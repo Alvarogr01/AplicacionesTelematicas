@@ -28,3 +28,16 @@ Pagina Contacta con Nosotros
     ampliar con un apartado de preguntas frecuentes, para hacer un fomrulario usaremos<li> para realizar divisiones entre
     filas,<label> para indicar que va en ese apartado,<input> esto lo usaremos para definir que tipo de input va dentro
     y por ultimo usaremos un <button> para finalizar. 
+
+Elementos añadidos
+    -header: establecemos un header donde donde ponemos tanto el logo de la empresa como 
+     los principales campos en los que trabaja, añadimos las tres paginas web asociadas a la principal 
+     como extensiones, luego mediante el uso de css modificamos tanto el color como el fomrato de las palabras.
+
+    - footer: principalmente añadimos un footer al final de cada pagina, mediante la etiqueta <footer>, y el fomrato lo 
+     modificaremos mediante el uso de css.
+
+    -iframe: hacemos uso de iframe en dos sitios distintos, tanto para mostrar la pagina de Indra de Wikipedia, 
+     como para insertar un video informativo donde describen las principales caracteristicas de Indra.
+
+    -Grid: usaremos grid para mostrar la informacion de los cursos que ofrece Indra.
