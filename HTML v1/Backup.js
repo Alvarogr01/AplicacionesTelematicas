@@ -40,8 +40,9 @@ async function getMain(){
     document.getElementById("fecha").innerHTML = fecha;
 
     document.getElementById("desc").innerHTML = desc;
-    document.getElementById("url").href = url;
+    document.getElementById("url").src = url;
     document.getElementById("url").innerHTML = "Link al documento";
+    document.getElementById("urlIframe").src = url;
 
 
     console.log(totalNumber);
