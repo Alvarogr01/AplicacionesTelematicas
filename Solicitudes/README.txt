@@ -1,0 +1,3 @@
+En esta practica trabajaremos con Spring Boot donde desarrollaremos en el main en diferentes archivos java, en uno un controler, para controlar las peticiones que se reciben,
+y en otro definiremos la clase Persona, para con las peticiones recibidas, juntar la informacion y almacenarlas en Objetos Persona, en resources Static almacenaremos la pagina web, en fomrato HTML
+para comprobar que todo esto funciona de forma correcta usaremos Postman para lanzar distintos tipos de peticiones a la api.
